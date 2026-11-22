@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/artezzy969-eth/the-picture-that-tastes-of-one-20261122-2047/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 [![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/artezzy969-eth/the-picture-that-tastes-of-one-20261122-2047/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
-Entry for the [make.fun](https://make.fun) bounty **"The picture that tastes of one ingredient"** ($20 in USDC): one hero ingredient, one picture — a glistening bowl of steaming ramen with a soft egg and chashu, warm light on a dark background, built to make you hungry at a glance.
+Entry for the [make.fun](https://make.fun) bounty **"The picture that tastes of one ingredient"** ($20 in USDC): one hero ingredient, one picture — a glistening bowl of steaming ramen with a soft egg and chashu, warm light on a dark background, made to make you hungry at a single glance.
+
+Contents: `main.py`, `gen_image.py`, `entry.png`, `README.md`.
 
 ## Run
 
